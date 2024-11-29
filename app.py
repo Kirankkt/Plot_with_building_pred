@@ -5,7 +5,7 @@ import numpy as np
 import os
 
 # Load the model and scaler
-model = joblib.load('gboost_model_7.pkl')
+model = joblib.load('gboost_model_8.pkl')
 scaler = joblib.load('scaler.pkl')
 
 # Location mapping
